@@ -9,7 +9,6 @@ license = "MIT"
 python = "3.7.3"
 pytelegrambotapi = "*"
 feedparser = "*"
-#nucleusapp-telegram = "*"
 
 [tool.poetry.dev-dependencies]
 ipython = "*"
