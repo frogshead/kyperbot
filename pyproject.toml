@@ -6,7 +6,7 @@ authors = ["Mikko Viitamäki <mikko.viitamaki+github@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "3.7.3"
+python = "^3.4"
 pytelegrambotapi = "*"
 feedparser = "*"
 
